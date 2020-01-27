@@ -23,8 +23,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		AA0B94C623B114C4000BCBC2 /* ibm01.result.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ibm01.result.txt; sourceTree = "<group>"; };
+		AA0B94C723B114D7000BCBC2 /* ibm02.result.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ibm02.result.txt; sourceTree = "<group>"; };
 		AA5AE14B23A8A77500A1E6A6 /* Global_Routing */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Global_Routing; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA5AE14E23A8A77500A1E6A6 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		AA5AE15523A8ADDB00A1E6A6 /* ibm04.modified.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ibm04.modified.txt; sourceTree = "<group>"; };
+		AA5AE15623A914A000A1E6A6 /* ibm04.result.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ibm04.result.txt; sourceTree = "<group>"; };
+		AA5AE15923AB140F00A1E6A6 /* ibm01.modified.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ibm01.modified.txt; sourceTree = "<group>"; };
+		AA5AE15A23AB141900A1E6A6 /* ibm02.modified.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ibm02.modified.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,12 @@
 			isa = PBXGroup;
 			children = (
 				AA5AE14E23A8A77500A1E6A6 /* main.cpp */,
+				AA5AE15923AB140F00A1E6A6 /* ibm01.modified.txt */,
+				AA5AE15A23AB141900A1E6A6 /* ibm02.modified.txt */,
+				AA5AE15523A8ADDB00A1E6A6 /* ibm04.modified.txt */,
+				AA0B94C623B114C4000BCBC2 /* ibm01.result.txt */,
+				AA0B94C723B114D7000BCBC2 /* ibm02.result.txt */,
+				AA5AE15623A914A000A1E6A6 /* ibm04.result.txt */,
 			);
 			path = Global_Routing;
 			sourceTree = "<group>";
